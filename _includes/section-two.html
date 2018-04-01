@@ -1,5 +1,5 @@
-<div>
-	<section id="two" class="wrapper style2 tiles">
+<section id="two" class="style2 wrapper special">
+	<div class="tiles">
 		{% for post in site.posts limit:site.front-page-posts %}
 			<article class="tile{{ forloop.index | plus:1 }}">
 				<span class="image">
@@ -13,5 +13,5 @@
 				</a>
 			</article>
 		{% endfor %}
-	</section>
-</div>
+	</div>
+</section>

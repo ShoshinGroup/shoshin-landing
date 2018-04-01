@@ -1,13 +1,15 @@
 <!-- CTA -->
-<section id="" class="wrapper style4 special">
+<section id="contact" class="wrapper style4 special">
 	<div class="inner">
 		<form action="https://formspree.io/{{ site.email }}" method="POST">
 			<header>
 				<h2>Stay Connected</h2>
 			</header>
 			<div class="field">
-					<input type="text" name="demo-name" id="demo-name" placeholder="E-mail"/>
-					<input type="submit" value="Submit" style="margin-top: 2rem;" />
+				<input type="text" name="email" id="email" placeholder="E-mail"/>
+				<input type="text" name="name" id="name" placeholder="Fullname"/>
+				<textarea name="message" id="message" rows=5 placeholder="Message"></textarea>
+				<input type="submit" value="Submit" style="margin-top: 2rem;" />
 			</div>
 		</form>
 	</div>

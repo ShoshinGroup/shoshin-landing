@@ -5,5 +5,16 @@
 	<header id="header" {% if page.layout == 'default' %} class="alt" {% endif %}>
 		<h1><a href="{{ "" | absolute_url }}/"><img src="assets/images/shoshin_logo.svg"></img></a></h1>
 		<nav id="nav">
+			<ul>
+				<li class="special">
+					<a href="https://medium.com/shoshin-group"><span>Blog</span></a>
+				</li>
+				<li class="special">
+					<a href="{{ "" | absolute_url }}#about"><span>About</span></a>
+				</li>
+				<li class="special">
+					<a href="{{ "" | absolute_url }}#contact"><span>Contact</span></a>
+				</li>
+			</ul>
 		</nav>
 	</header>
