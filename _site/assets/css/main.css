@@ -4101,8 +4101,8 @@
 			width: 80%;
 		}
 
-		.column .partner img {
-			width: 80%;
+		.column a {
+			border: none;
 		}
 
 		/* Responsive layout - makes a two column-layout instead of four columns */
