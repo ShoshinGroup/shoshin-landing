@@ -1,9 +1,9 @@
 # Site settings
 title: Shoshin
-email: hanvonke@gmail.com
-description: Data Analytics Curation for Social Good
+email: info.shoshin@gmail.com
+description: SMART CONTRACT AUDITING AND DISTRIBUTED LEDGER SECURITY SERVICES
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://shoshin.io" # the base hostname & protocol for your site
+url: "https://shoshin.io" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,7 +21,7 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url:
+slack_url: "https://join.slack.com/t/shoshingroup/shared_invite/enQtMzM5ODI1NDUxNDg4LWM3MGJhYTkwYWE5NGU4NjQxMzU3M2FiY2VjNmFlOTQyNzI5MTA3NjA1ODg0ZTA4NzMxOTAwNGVkNDcwYTU5OWQ"
 twitter_url: "https://twitter.com/shoshingroup"
 medium_url: "https://medium.com/shoshin-group"
 
