@@ -4122,7 +4122,11 @@
 		.column img {
 		  margin-top: 8px;
 		  vertical-align: middle;
-			width: 60%;
+			width: 80%;
+		}
+
+		.icon img {
+			width: 50%;
 		}
 
 		.column a {
