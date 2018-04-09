@@ -1,6 +1,6 @@
 # Site settings
 title: Shoshin
-email: info.shoshin@gmail.com
+email: info@shoshin.io
 description: SMART CONTRACT AUDITING AND DISTRIBUTED LEDGER SECURITY SERVICES
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shoshin.io" # the base hostname & protocol for your site
