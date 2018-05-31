@@ -21,9 +21,10 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: "https://join.slack.com/t/shoshingroup/shared_invite/enQtMzM5ODI1NDUxNDg4LWM3MGJhYTkwYWE5NGU4NjQxMzU3M2FiY2VjNmFlOTQyNzI5MTA3NjA1ODg0ZTA4NzMxOTAwNGVkNDcwYTU5OWQ"
+slack_url:
 twitter_url: "https://twitter.com/shoshingroup"
 medium_url: "https://medium.com/shoshin-group"
+telegram_url: 
 
 # Build settings
 markdown: kramdown
